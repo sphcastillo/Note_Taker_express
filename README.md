@@ -29,7 +29,10 @@ Email : Sphcastillo@gmail.com,
 GitHub: https://github.com/sphcastillo 
 
 
-<img src="images/Screen Shot 2020-09-02 at 12.58.36 AM.png"/>
-<img src="images/Screen Shot 2020-09-02 at 1.00.39 AM.png"/>
-<img src="images/Screen Shot 2020-09-02 at 1.32.51 AM.png"/>
+Heroku Deployed Site: https://sleepy-citadel-24972.herokuapp.com/
 
+
+<img src="images/Screen Shot 2020-09-02 at 4.31.23 PM.png"/>
+<img src="images/Screen Shot 2020-09-02 at 4.31.57 PM.png"/>
+<img src="images/Screen Shot 2020-09-02 at 4.32.08 PM.png"/>
+<img src="images/Screen Shot 2020-09-02 at 4.32.16 PM.png"/>
