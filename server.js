@@ -27,3 +27,7 @@ htmlRoutes(app);
 app.listen(PORT, function(){
     console.log("Application listening on PORT" + PORT );
 })
+
+//to deploy on heroku
+//1 - heroku create (optional - name of project you want)
+//2 - git add . , git commit -m "something".... if you havne't already
